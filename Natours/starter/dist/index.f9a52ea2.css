@@ -1,0 +1,17 @@
+body, .app {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  width: 100%;
+  min-height: 500px;
+  height: -moz-fit-content;
+  height: fit-content;
+  opacity: .3;
+  background-color: #7ed56f;
+  background-image: url("hero.d3768954.jpg");
+  background-size: cover;
+}
+
+/*# sourceMappingURL=index.f9a52ea2.css.map */
